@@ -1,0 +1,1 @@
+Machine Learning Project using Ridge Regression to predict FWI on the algerian forest fires dataset
